@@ -1,0 +1,16 @@
+# Agent SDK
+**/node_modules/
+**/.agent-serve/
+
+# Minecraft / pack runtime
+*.log
+crash-reports/
+saves/
+world/
+worlds/
+.cache/
+*.jar
+
+# OS / editor
+.DS_Store
+*.swp
