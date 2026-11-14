@@ -1,2 +1,2 @@
 # Craftrun
-A mod for the initiated street crews
+A mod for the initiated street groups
